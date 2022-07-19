@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap");
+
+.signup-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.signup-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#button-result
+{
+  cursor: pointer;
+  /* padding: 15px;
+  margin: 15px; */
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#cardTitle{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 250%;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+
+#elem{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    font-weight: lighter;
+    color: black;
+    /* text-align: center; */
+}
+
+#btn{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 24px;
+} 

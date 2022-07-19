@@ -1,0 +1,66 @@
+/* --------------------------------- Footer  Section starts  
+                        -------------------------------------------------------*/
+                        @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap");
+html{
+    min-height: 100%;
+}
+
+                        footer {
+                            padding: 5rem 0;
+                            background-color: #182334;
+                            color: #fff;
+                          }
+                          
+                          footer h2 {
+                            color: #fff;
+                          }
+                          
+                          footer li {
+                            list-style: none;
+                            font-size: 1.5rem;
+                            font-weight: lighter;
+                            color: #fff;
+                            cursor: pointer;
+                            margin: 1rem 0;
+                          }
+                          
+                          footer li:hover {
+                            color: var(--primary-color);
+                          }
+                          
+                          footer .fontawesome-style {
+                            font-size: 2.3rem;
+                            color: var(--primary-color);
+                            background-color: transparent;
+                            width: 0rem;
+                            height: 0rem;
+                            margin: 2rem 0;
+                            cursor: pointer;
+                          }
+                          
+                          footer .fontawesome-style:hover {
+                            transition: all 1s;
+                            animation: rotatefont 1s linear infinite alternate-reverse;
+                            color: #fff;
+                          }
+                          
+                          @keyframes rotatefont {
+                            0% {
+                              transform: scale(0.6);
+                            }
+                            100% {
+                              transform: scale(1.2);
+                            }
+                          }
+                          
+                          footer .main-hero-para {
+                            margin: 0;
+                          }
+                          
+                        dfknan{
+                          color: #d28a1e;
+                        }
+
+                          /* --------------------------------- Footer  Section ends  
+                                                  -------------------------------------------------------*/
+                          

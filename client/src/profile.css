@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,800;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;800&family=Raleway:ital,wght@0,800;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Nunito:wght@600;800&family=Raleway:ital,wght@0,800;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Nunito:wght@600;800&family=Raleway:ital,wght@0,800;1,800&family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Nunito:wght@600;800&family=Open+Sans:wght@700&family=Raleway:ital,wght@0,800;1,800&family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.head{
+    font-family: 'Raleway', sans-serif;
+    font-size: 290%;
+}
+
+.card.heck{
+    padding: 1%;
+}
+
+.head2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 200%;
+}
+
+.item{
+    font-family: 'Poppins', sans-serif;
+    font-size: 110%;
+}
+
+.hotelName{
+    font-family: 'Raleway', sans-serif;
+    font-size: 180%;
+    font-weight: bold;
+}
+
+.det{
+    padding-left: 30%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 150%;   
+}
+
+#btn{
+    font-family: 'Raleway', sans-serif;
+    border-radius: 12px;
+}
+
+.detpara{
+    font-family: 'Raleway', sans-serif;
+    font-style:normal;
+}

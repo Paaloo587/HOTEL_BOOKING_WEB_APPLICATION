@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Nunito:wght@600;800&family=Open+Sans:wght@700&family=Raleway:ital,wght@0,800;1,800&family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.header_font{
+    font-family: 'Raleway', sans-serif;
+    color: blue;
+    font-size: 270%;
+}
+
+.header_font_2{
+    font-family: 'Open Sans', sans-serif;
+    color: brown;
+    font-size: 170%;
+}
+
+.content{
+    font-family: 'Roboto', sans-serif;
+    font-size: 110%;
+}
