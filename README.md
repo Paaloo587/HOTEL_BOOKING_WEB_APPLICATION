@@ -15,4 +15,5 @@ cd server
 npm install
 ```
 Server can be started with ```node index.js``` in the terminal
+
 Client side can be started with ```npm start``` in the terminal
